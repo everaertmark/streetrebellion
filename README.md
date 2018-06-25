@@ -16,12 +16,14 @@ Speluitleg
 Met de arrow keys kan de speler zijn auto besturen. Door het aanrijden van burgerauto's krijgt de crimineel punten. Door het verzamelen van punten kan de crimineel zich veroorloven om geraakt te worden door een politieauto. Dit is linksbovenin te zien bij Health. Door het oppakken van kistjes op het veld zorgt de crimineel ervoor dat de politieauto's langzamer rijden, waardoor het ontwijken makkelijker zal gaan.
 
 Pull request
-Met de pull requ
-est had ik een basis layout om mee te beginnen. Dit hielp mij om aan de slag te gaan met de componenten die nodig zijn om het bouwen van een game mogelijk te maken. 
+
+Met de pull request had ik een basis layout om mee te beginnen. Dit hielp mij om aan de slag te gaan met de componenten die nodig zijn om het bouwen van een game mogelijk te maken. 
 
 Peer review
 
 https://github.com/Tim0182/CMTPRG01-8/issues/7
+
+Tijdens de peer review merkte ik dat de verdeling van verschillende classes in een strategy pattern van belang is om te werken met herbruikbare en nieuwe elementen die toegevoegd willen worden. Dit helpt mij om de game nauwkeuriger te programmeren. 
 
 Design Patterns
 
