@@ -26,18 +26,22 @@ https://github.com/Tim0182/CMTPRG01-8/issues/7
 Design Patterns
 
 
-Singleton
+Singleton:
 
 De Singleton is in de score.ts geplaatst. De score wordt 1x aangemaakt en kan niet opnieuw aangemaakt worden. De attributen van de score worden telkens geupdatet zodra de crimineel weer een burgerauto raakt (of een politieauto).
 
-Strategy & Observer
+Strategy & Observer:
 
 De strategy pattern is aangemaakt in de drivebehaviour en in de game.ts. In de gameloop wordt er gekeken welke vehicle aangemaakt wordt (police of civilian). In de drivebehaviour wordt bekeken welke drivebehaviour wordt gekoppeld aan de politieauto(fragile, normal). Hier komt ook de observer in terug. In police.ts wordt gekeken of de politieauto langzamer moet gaan rijden zodra de crimineel een kistje oppakt. 
 
-Polymorphisme
+Polymorphisme:
 
 De classes police.ts, civilian.ts extenden allebei van vehicle.ts - fragile.ts en normal.ts extenden van drivebehaviour
 
-Klassendiagram
+Klassendiagram:
 
 https://github.com/everaertmark/streetrebellion/blob/master/rebellionclass.png
+
+Game live:
+
+https://stud.hosted.hr.nl/0902764/streetrebellion/
